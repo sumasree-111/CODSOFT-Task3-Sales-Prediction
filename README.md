@@ -4,17 +4,17 @@
 
 This project was completed as part of the **CodSoft Data Science Internship**.
 
-The objective of this project is to build a Machine Learning model that predicts product sales based on advertising budgets spent on TV, Radio, and Newspaper.
+The objective of this project is to build a Machine Learning model that predicts product sales based on TV, Radio, and Newspaper advertising budgets.
 
 ---
 
 ## 📂 Dataset
 
-- Dataset: Advertising Sales Dataset
+- Advertising Sales Dataset
 - Features:
-  - TV Advertising Budget
-  - Radio Advertising Budget
-  - Newspaper Advertising Budget
+  - TV
+  - Radio
+  - Newspaper
 - Target:
   - Sales
 
@@ -38,7 +38,6 @@ The objective of this project is to build a Machine Learning model that predicts
 - Missing Value Analysis
 - Data Visualization
 - Correlation Analysis
-- Feature Selection
 - Train-Test Split
 - Linear Regression Model
 - Model Evaluation
@@ -51,32 +50,22 @@ The objective of this project is to build a Machine Learning model that predicts
 - Linear Regression
 
 ---
-
-## 📊 Evaluation Metrics
-
-- R² Score
-- Mean Absolute Error (MAE)
-- Mean Squared Error (MSE)
-- Root Mean Squared Error (RMSE)
-
----
-
 ## 📷 Project Visualizations
 
 ### Sales Distribution
 
 ![Sales Distribution](images/sales_distribution.png)
 
-
 ### Actual vs Predicted Sales
 
 ![Actual vs Predicted Sales](images/actual_vs_predicted_sales.png)
+
 
 ---
 
 ## 🎯 Project Outcome
 
-The Linear Regression model successfully learned the relationship between advertising expenditure and product sales, enabling accurate sales prediction based on marketing budgets.
+The model successfully predicts product sales based on advertising expenditure across different media channels.
 
 ---
 
